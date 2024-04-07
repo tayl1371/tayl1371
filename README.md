@@ -1,7 +1,7 @@
 Hi, my name is Jack Taylor
 ============================
 
-* I'm a Student GIS Research Technician at MSU's Aquatic Landscape Ecology Lab
+* I'm a Student GIS Research Technician at Michigan State University's Aquatic Landscape Ecology Lab
 * Majoring in Geographic Information Science and minoring in Quantitative Data Analytics
 * Based in East Lansing, Michigan
 * You can contact me at [tayl1371@msu.edu](mailto:tayl1371@msu.edu)
